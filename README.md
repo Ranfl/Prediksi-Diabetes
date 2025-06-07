@@ -2,7 +2,7 @@
 
 ---
 
-![blood_checker](img/blood_checker.jpg)
+![blood_checker](Img/blood_checker.jpg)
 
 ## **Domain Proyek: Kesehatan**
 
