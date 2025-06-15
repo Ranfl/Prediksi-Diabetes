@@ -462,9 +462,8 @@ _1. Accuracy_
 
 Accuracy mengukur proporsi prediksi yang benar dari total prediksi.
 
-\[
-\text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}
-\]
+![rumus akurasi](Img/akurasi.png)
+
 
 Dimana:
 
@@ -477,25 +476,22 @@ _2. Precision_
 
 Precision mengukur proporsi prediksi positif yang benar.
 
-\[
-\text{Precision} = \frac{TP}{TP + FP}
-\]
+![rumus presisi](Img/presisi.png) 
+
 
 _3. Recall (Sensitivity)_
 
 Recall mengukur proporsi kasus positif yang berhasil dideteksi.
 
-\[
-\text{Recall} = \frac{TP}{TP + FN}
-\]
+![rumus recall](Img/recall.png)
+
 
 _4. F1-Score_
 
 F1-Score adalah rata-rata harmonis dari precision dan recall.
 
-\[
-F1 = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-\]
+![rumus f1](Img/f1.png)
+
 
 _5. Confusion Matrix_
 
